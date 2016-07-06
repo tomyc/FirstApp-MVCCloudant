@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant_main.iml" group="FirstApp-MVCCloudant" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstApp-MVCCloudant_test.iml" group="FirstApp-MVCCloudant" />
+    </modules>
+  </component>
+</project>

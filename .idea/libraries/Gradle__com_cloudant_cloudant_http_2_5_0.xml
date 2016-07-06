@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cloudant:cloudant-http:2.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-http/2.5.0/b0fb77cc477d970f5e21bdcdfbf95bbddd3e7b44/cloudant-http-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-http/2.5.0/eca3a31766bf01b8322f84dd0bfb06f0ba8ef838/cloudant-http-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
